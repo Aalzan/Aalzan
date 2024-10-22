@@ -3,11 +3,12 @@
 My name is **Mamyr Alzhan**  
 I'm a Software Developer  
 
-🌍 I'm based in Kazahstan
+🌍 I'm based in Kazahstan 
+
 ✉️ You can contact me at **aalzan194@gmail.com**  
 
-I have experience working with the following technologies:
 
+I have experience working with the following technologies:
 ## Programming Languages
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 - ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
