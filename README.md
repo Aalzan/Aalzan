@@ -3,7 +3,7 @@
 My name is **Mamyr Alzhan**  
 I'm a Software Developer  
 
-![Kazakhstan Flag](https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg)  
+🌍 I'm based in Kazahstan
 ✉️ You can contact me at **aalzan194@gmail.com**  
 
 I have experience working with the following technologies:
