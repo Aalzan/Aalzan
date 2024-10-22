@@ -3,7 +3,7 @@
 My name is **Mamyr Alzhan**  
 I'm a Software Developer  
 
-KZ I'm from Kazakhstan  
+[🇰🇿 Kazakhstan](https://en.wikipedia.org/wiki/Kazakhstan)  
 ✉️ You can contact me at **aalzan194@gmail.com**  
 
 I have experience working with the following technologies:
