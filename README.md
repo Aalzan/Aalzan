@@ -1,9 +1,9 @@
 # Hi/Salem! 👋
 
 My name is **Mamyr Alzhan**  
-I'm a Software Developer  
+I'm a **Software Developer**  
 
-🌍 I'm from Kazakhstan  
+🌍 I'm based in Kazakhstan  
 ✉️ You can contact me at **aalzan194@gmail.com** 
 
 
